@@ -1,3 +1,3 @@
-## Inherit Consistency
-Code coming soon!
+## Inherent Consistency
+The code is under preparation and is coming soon!
 
