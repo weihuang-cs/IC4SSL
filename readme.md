@@ -1,5 +1,9 @@
 # Exploring Inherent Consistency for Semi-supervised Anatomical Structure Segmentation in Medical Imaging
 
+
+## Update
+We have updated the code and released pretrained checkpoints to include the Autoencoder implementation, addressing a frequently asked question from the community.
+
 ## Introduction
 This repository contains the source code and materials associated with our paper published in IEEE Transactions on Medical Imaging, titled "[Exploring Inherent Consistency for Semi-supervised Anatomical Structure Segmentation in Medical Imaging](https://doi.org/10.1109/tmi.2024.3400840)".
 
